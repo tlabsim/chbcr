@@ -1,3 +1,7 @@
-/dataset_images/
+/dataset_images/raw/
+/dataset_images/processed/letters_cropped/
+/dataset_images/processed/letters_processed/v1
+/dataset_images/processed/poems
+/dataset_images/processed/words
 /test/
 desktop.ini
