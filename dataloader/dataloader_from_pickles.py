@@ -17,7 +17,9 @@ x_pickles_dir = os.path.join(parent, x_pickles_dir)
 y_pickle = os.path.join(parent, y_pickle)
 
 class DataLoader:
-    'Loads data in a rowise fashion'
+    """
+    Loads data in a rowise fashion where each row contains a i/o set
+    """
     def load_data(train_set_percentage = 0.8, shuffle = True, seed = 1):        
         if train_set_percentage > 1 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
@@ -66,7 +68,10 @@ class DataLoader:
 
         return [train_set, test_set]
 
-    
+    """
+    Loads data in a columnar fashion where first column contains input sets 
+    and second column contains corresponding output sets
+    """
     def load_data_columnar(train_set_percentage = 0.8, shuffle = True, seed = 1):        
         if train_set_percentage > 1 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
@@ -129,5 +134,5 @@ if __name__ == "__main__":
     data = DataLoader.load_data_columnar()
     img = plt.imshow(data[0][0][0])
     del img
-
+    
     print(data[0][1][0])
