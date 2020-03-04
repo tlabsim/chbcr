@@ -18,7 +18,7 @@ y_pickle = os.path.join(parent, y_pickle)
 
 class DataLoader:
     """
-    Loads data in a rowise fashion where each row contains a i/o set
+    Loads data in a rowise fashion where each row contains an i/o set
     """
     def load_data(train_set_percentage = 0.8, shuffle = True, seed = 1):        
         if train_set_percentage > 1 or train_set_percentage < 0.2 :
@@ -134,5 +134,5 @@ if __name__ == "__main__":
     data = DataLoader.load_data_columnar()
     img = plt.imshow(data[0][0][0])
     del img
-    
+
     print(data[0][1][0])
