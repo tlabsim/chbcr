@@ -21,13 +21,16 @@ class DataLoader:
     Loads data in a rowise fashion where each row contains an i/o set
     """
     def load_data(train_set_percentage = 0.8, shuffle = True, seed = 1):        
-        if train_set_percentage > 1 or train_set_percentage < 0.2 :
+        if train_set_percentage > 1.0 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
 
         train_set = []     
         test_set = []
 
-        # Load grapheme map
+        # Seed
+        rng.seed(seed)
+
+        # Load grapheme map for output sets
         pf = open(y_pickle, 'rb')
         grapheme_maps = pickle.load(pf)
         pf.close()   
@@ -84,7 +87,7 @@ class DataLoader:
         # Seed
         rng.seed(seed)
         
-        # Load grapheme map
+        # Load grapheme map for output sets
         pf = open(y_pickle, 'rb')
         grapheme_maps = pickle.load(pf)
         pf.close()
