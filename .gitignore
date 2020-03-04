@@ -1,0 +1,6 @@
+/dataset_images/
+/dataloader/pickles/*
+/dataloader/parquets/*
+/tools/
+/test/
+desktop.ini
