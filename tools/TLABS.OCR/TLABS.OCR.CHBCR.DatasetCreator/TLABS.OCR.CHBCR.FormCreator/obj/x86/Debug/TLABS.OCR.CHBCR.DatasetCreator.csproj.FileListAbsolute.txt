@@ -1,0 +1,12 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\TLABS.OCR.CHBCR.DatasetCreator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\TLABS.OCR.CHBCR.DatasetCreator.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.MainForm.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.Properties.Resources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\obj\x86\Debug\TLABS.OCR.CHBCR.DatasetCreator.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\default_configs.txt
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.DatasetCreator\bin\Debug\configs.txt

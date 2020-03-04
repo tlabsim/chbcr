@@ -1,0 +1,32 @@
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.dll
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\MainWindow.baml
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\MainWindow.g.cs
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification_MarkupCompile.cache
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.g.resources
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.Properties.Resources.resources
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.csproj.GenerateResource.Cache
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.dll
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.pdb
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.dll
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\IconResources.baml
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\MainWindow.baml
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\MainWindow.g.cs
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification_MarkupCompile.cache
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.g.resources
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.Properties.Resources.resources
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.dll
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\Debug\TLABS.Notification.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\bin\Debug\TLABS.Notification.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\IconResources.baml
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\MainWindow.baml
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\MainWindow.g.cs
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification_MarkupCompile.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification.g.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification.Properties.Resources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Notification\obj\Debug\TLABS.Notification.pdb

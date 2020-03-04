@@ -1,0 +1,15 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\configs.txt
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\default_configs.txt
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLABS.OCR.CHBCR.FormCreator.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLABS.OCR.CHBCR.FormCreator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLABS.OCR.CHBCR.FormCreator.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLSBS.OCR.CHBCR.Common.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\bin\Debug\TLSBS.OCR.CHBCR.Common.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.MainForm.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.Properties.Resources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormCreator\obj\x86\Debug\TLABS.OCR.CHBCR.FormCreator.pdb

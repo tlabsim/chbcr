@@ -1,0 +1,8 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\bin\x86\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\bin\x86\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.Extensions.ExtensionResources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.DataViewerForm.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.Extensions.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.Extensions\obj\x86\Debug\TLABS.Extensions.csprojResolveAssemblyReference.cache

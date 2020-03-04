@@ -1,0 +1,8 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\bin\Debug\FolderDifferenceFinder.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\bin\Debug\FolderDifferenceFinder.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\bin\Debug\FolderDifferenceFinder.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\obj\Debug\FolderDifferenceFinder.Form1.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\obj\Debug\FolderDifferenceFinder.Properties.Resources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\obj\Debug\FolderDifferenceFinder.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\obj\Debug\FolderDifferenceFinder.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FolderDifferenceFinder\obj\Debug\FolderDifferenceFinder.pdb

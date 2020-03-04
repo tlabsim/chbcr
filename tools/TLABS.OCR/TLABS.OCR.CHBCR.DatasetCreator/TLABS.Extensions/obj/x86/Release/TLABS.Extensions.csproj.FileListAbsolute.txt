@@ -1,0 +1,7 @@
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\bin\x86\Release\TLABS.Extensions.dll
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\bin\x86\Release\TLABS.Extensions.pdb
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\obj\x86\Release\TLABS.Extensions.ExtensionResources.resources
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\obj\x86\Release\TLABS.DataViewerForm.resources
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\obj\x86\Release\TLABS.Extensions.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\obj\x86\Release\TLABS.Extensions.dll
+E:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Extensions\obj\x86\Release\TLABS.Extensions.pdb

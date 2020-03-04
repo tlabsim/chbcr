@@ -1,0 +1,5 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\RecursiveRename\bin\Debug\RecursiveRename.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\RecursiveRename\bin\Debug\RecursiveRename.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\RecursiveRename\bin\Debug\RecursiveRename.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\RecursiveRename\obj\Debug\RecursiveRename.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\RecursiveRename\obj\Debug\RecursiveRename.pdb

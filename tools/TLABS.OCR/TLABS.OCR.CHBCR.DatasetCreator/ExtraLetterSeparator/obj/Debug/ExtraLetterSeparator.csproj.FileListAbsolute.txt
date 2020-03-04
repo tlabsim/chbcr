@@ -1,0 +1,6 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\bin\Debug\ExtraLetterSeparator.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\bin\Debug\ExtraLetterSeparator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\bin\Debug\ExtraLetterSeparator.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\obj\Debug\ExtraLetterSeparator.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\obj\Debug\ExtraLetterSeparator.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\ExtraLetterSeparator\obj\Debug\ExtraLetterSeparator.csprojResolveAssemblyReference.cache

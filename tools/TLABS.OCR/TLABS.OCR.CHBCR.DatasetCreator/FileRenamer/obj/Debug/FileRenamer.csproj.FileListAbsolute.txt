@@ -1,0 +1,8 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\bin\Debug\FileRenamer.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\bin\Debug\FileRenamer.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\bin\Debug\FileRenamer.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\bin\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\bin\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\obj\Debug\FileRenamer.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\obj\Debug\FileRenamer.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\FileRenamer\obj\Debug\FileRenamer.pdb

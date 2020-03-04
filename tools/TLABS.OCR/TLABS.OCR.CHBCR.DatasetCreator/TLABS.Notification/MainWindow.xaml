@@ -1,0 +1,54 @@
+﻿<Window x:Class="TLABS.Notification.MessageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Message box" 
+        Height="200" Width="450" MinWidth="450" MinHeight="120" MaxWidth="1024" SizeToContent="WidthAndHeight"
+        ShowInTaskbar="False"  WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" Opacity="0.95" Topmost="True"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown" 
+        MouseMove="Window_MouseMove" 
+        MouseLeftButtonUp="Window_MouseLeftButtonUp" 
+        RenderOptions.BitmapScalingMode="Fant" TextOptions.TextRenderingMode="ClearType" SnapsToDevicePixels="True">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary x:Name="IconResources" Source="/TLABS.Notification;component/IconResources.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    
+    <Border Margin="10" CornerRadius="10" Background="#FFFFFDFB" BorderBrush="DarkGray" BorderThickness=".5">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="10" Direction="0" Color="#FF787878" ShadowDepth="0" Opacity="0.75"/>
+        </Border.Effect>
+        
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Name="txtCaption" Grid.ColumnSpan="2" Margin="30,0,30,0" VerticalAlignment="Center" FontSize="20" Foreground="{StaticResource NotificationCaptionForeColor}" Text="{Binding MessageCaption}"></TextBlock>
+
+            <Image Name="MessageIcon" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Left"  VerticalAlignment="Center" Width="36" Height="36" Margin="30,0,0,0" Source="{Binding MessageImageSource}"></Image>
+
+            <TextBlock Name="txtText" Grid.Column="1" Grid.Row="1" Margin="0,0,30,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Foreground="{StaticResource NotificationTextForeColor}" Text="{Binding MessageText}"></TextBlock>
+
+            <TextBox Name="txtCopyableText" Grid.Column="1" Grid.Row="1" Margin="0,0,30,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Foreground="{StaticResource NotificationTextForeColor}" Text="{Binding MessageText}" AcceptsReturn="True" IsReadOnly="True" IsTabStop="False" BorderBrush="Transparent" FocusVisualStyle="{x:Null}" Visibility="Collapsed"></TextBox>
+
+            <StackPanel Name="ButtonPanel" Grid.Row="2" Grid.ColumnSpan="2" Margin="30,0,30,0" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="btnYes" VerticalAlignment="Center" Margin="5,0,5,0" MinWidth="75" Background="#FFF6F6F6" Foreground="{StaticResource ButtonForeColor}" Visibility="{Binding IsYesVisible}" Click="btnYes_Click" Content="{Binding YesButtonText}"></Button>
+                <Button Name="btnNo" VerticalAlignment="Center" Margin="5,0,5,0" MinWidth="75" Background="#FFF6F6F6" Foreground="{StaticResource ButtonForeColor}" Visibility="{Binding IsNoVisible}" Click="btnNo_Click" Content="{Binding NoButtonText}"></Button>
+                <Button Name="btnOk" VerticalAlignment="Center" Margin="5,0,5,0" MinWidth="75" Background="#FFF6F6F6" Foreground="{StaticResource ButtonForeColor}" Visibility="{Binding IsOkVisible}" Click="btnOk_Click" Content="{Binding OkButtonText}"></Button>
+                <Button Name="btnCancel" VerticalAlignment="Center" Margin="5,0,5,0" MinWidth="75" Background="#FFF6F6F6" Foreground="{StaticResource ButtonForeColor}" Visibility="{Binding IsCancelVisible}" Click="btnCancel_Click" Content="{Binding CancelButtonText}"></Button>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

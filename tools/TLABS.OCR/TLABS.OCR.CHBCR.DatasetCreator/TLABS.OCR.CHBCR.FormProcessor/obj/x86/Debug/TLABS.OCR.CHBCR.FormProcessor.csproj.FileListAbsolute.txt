@@ -1,0 +1,14 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLABS.OCR.CHBCR.FormProcessor.exe.config
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLABS.OCR.CHBCR.FormProcessor.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLABS.OCR.CHBCR.FormProcessor.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.MainForm.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.Properties.Resources.resources
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.csproj.GenerateResource.Cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.exe
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\obj\x86\Debug\TLABS.OCR.CHBCR.FormProcessor.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLABS.Extensions.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLABS.Extensions.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\configs.txt
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLSBS.OCR.CHBCR.Common.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLABS.OCR.CHBCR.FormProcessor\bin\Debug\TLSBS.OCR.CHBCR.Common.pdb

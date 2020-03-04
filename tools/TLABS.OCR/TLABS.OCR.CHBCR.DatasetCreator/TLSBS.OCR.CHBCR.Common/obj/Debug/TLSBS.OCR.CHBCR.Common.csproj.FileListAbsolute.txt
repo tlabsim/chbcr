@@ -1,0 +1,5 @@
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLSBS.OCR.CHBCR.Common\bin\Debug\TLSBS.OCR.CHBCR.Common.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLSBS.OCR.CHBCR.Common\bin\Debug\TLSBS.OCR.CHBCR.Common.pdb
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLSBS.OCR.CHBCR.Common\obj\Debug\TLSBS.OCR.CHBCR.Common.csprojResolveAssemblyReference.cache
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLSBS.OCR.CHBCR.Common\obj\Debug\TLSBS.OCR.CHBCR.Common.dll
+E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\TLSBS.OCR.CHBCR.Common\obj\Debug\TLSBS.OCR.CHBCR.Common.pdb

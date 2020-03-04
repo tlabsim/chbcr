@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 import matplotlib.image as mpimg
 
-sample_directory = f'D:/chbcr/dataset_images/validation_samples_processed'
-output_file = "validation_samples_1.pickle"
+sample_directory = f'D:/chbcr/dataset_images/validation_samples/processed/S2'
+output_file = "validation_samples_2.pickle"
 
 samples = []
 

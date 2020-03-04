@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <BitmapImage x:Key="icon_Error" UriSource="pack://application:,,,/TLABS.Notification;component/Icons/icon_dialog_error.png"/>
+    <BitmapImage x:Key="icon_Warning" UriSource="pack://application:,,,/TLABS.Notification;component/Icons/icon_dialog_warning.png"/>
+    <BitmapImage x:Key="icon_Question" UriSource="pack://application:,,,/TLABS.Notification;component/Icons/icon_dialog_question.png"/>
+    <BitmapImage x:Key="icon_Information" UriSource="pack://application:,,,/TLABS.Notification;component/Icons/icon_dialog_information.png"/>
+
+</ResourceDictionary>

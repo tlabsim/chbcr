@@ -1,0 +1,37 @@
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.exe
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.baml
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.g.cs
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\App.g.cs
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification_MarkupCompile.cache
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.g.resources
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.Properties.Resources.resources
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.exe
+G:\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.pdb
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.exe
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.baml
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.g.cs
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\App.g.cs
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification_MarkupCompile.cache
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.g.resources
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.Properties.Resources.resources
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.exe
+G:\NSTU result Creator\NRC\New folder\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.pdb
+F:\Current\Workspace 1\NSTU result Creator\NRC\NRC\TLABS.Notification\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.dll
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\bin\Debug\TLABS.Notification.pdb
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.baml
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\MainWindow.g.cs
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification_MarkupCompile.cache
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.g.resources
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.Properties.Resources.resources
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.csproj.GenerateResource.Cache
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.dll
+G:\My Workspaces\Current\NSTU Result Creator\NRC\TLABS.Notification\obj\x86\Debug\TLABS.Notification.pdb
