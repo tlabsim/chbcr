@@ -1,3 +1,8 @@
+# Provides method for loading chbcr datset
+# The DataLOader class loads data from pickle files which
+# contains processed images stored in nparray (64*64) of type uint8
+# There are 2100 pickle files for each type of grapheme
+
 import sys, os
 import pickle
 import numpy as np
@@ -11,8 +16,8 @@ y_pickle = "dataloader/pickles/grapheme_map/grapheme_map.pickle"
 x_pickles_dir = os.path.join(parent, x_pickles_dir)
 y_pickle = os.path.join(parent, y_pickle)
 
-class DataLoader:        
-
+class DataLoader:
+    'Loads data in a rowise fashion'
     def load_data(train_set_percentage = 0.8, shuffle = True, seed = 1):        
         if train_set_percentage > 1 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
