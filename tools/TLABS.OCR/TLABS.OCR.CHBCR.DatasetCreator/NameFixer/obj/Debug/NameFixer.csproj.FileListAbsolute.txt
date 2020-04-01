@@ -3,3 +3,6 @@ E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\bin\
 E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\bin\Debug\NameFixer.pdb
 E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\obj\Debug\NameFixer.exe
 E:\My Workspaces\Current\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\obj\Debug\NameFixer.pdb
+D:\chbcr\tools\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\bin\Debug\NameFixer.exe.config
+D:\chbcr\tools\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\obj\Debug\NameFixer.exe
+D:\chbcr\tools\TLABS.OCR\TLABS.OCR.CHBCR.DatasetCreator\NameFixer\obj\Debug\NameFixer.pdb

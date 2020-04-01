@@ -12,6 +12,7 @@ y_pickle = "pickles/grapheme_map/grapheme_map.pickle"
 
 x_vals = []
 y_vals = []
+
 # Load grapheme map
 pf = open(y_pickle, 'rb')
 grapheme_maps = pickle.load(pf)

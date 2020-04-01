@@ -352,8 +352,6 @@ namespace TLABS.OCR.CHBCR.LetterImageProcessor
             }
 
             //Calculate output file
-
-
             string out_file_name = fi.FullName;
             if (this.DoRename)
             {

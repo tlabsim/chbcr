@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CHBCR test</title>
+        <script src="jquery-1.12.4.min.js"></script>
+        <script src="avro-lib.js"></script>        
+        <script src="chbcr.js"></script>
+    </head>
+    <body>
+        <p id="out"></p>
+        <script>
+            var avro = OmicronLab.Avro.Phonetic;
+            var CT  = TLABS.CHBCR.Test;           
+            CT.populate();
+
+            var t = "";
+            CT.all_letters.forEach(element => {   
+                var form = element.requires_transliteration ? avro.parse(element.form) : element.form;                             
+                var out =  form + ', ' + element.form + ", " + element.classification_vector;
+                t += (out + '<br>');
+            });
+
+            $('#out').html(t);
+            
+        </script>        
+    </body>
+</html>

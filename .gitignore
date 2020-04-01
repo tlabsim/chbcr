@@ -1,7 +1,15 @@
 /dataset_images/raw/
+/dataset_Iamges/raw.rar
+/dataset_Iamges/all_forms.rar
 /dataset_images/processed/letters_cropped/
 /dataset_images/processed/letters_processed/v1
 /dataset_images/processed/poems
 /dataset_images/processed/words
+/dataset_images/validation_samples/
+/dataset_images/validation_samples_processed/
 /test/
+/tools/python/segmentation/
+/vast.ai/
 desktop.ini
+dataloader.rar
+test.rar

@@ -3,17 +3,16 @@ import os
 import pickle
 import pandas as pd
 import numpy as np
+from numba import jit
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+import timeit
+import math
 
-xs = []
-for i in range(10):
-    x = np.random.rand(2,2).astype(np.float)
-    xs.append(x)
+p = 0
 
-xs = np.asarray(xs).reshape(-1, 10, 10, 1)
-print(xs)
+for i in range(1, 10000000):
+    p += 1 / (i*i*i)
 
-
-
-
+print(p)
+print((math.pi * math.pi * math.pi)/p)

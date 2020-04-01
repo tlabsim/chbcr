@@ -1,6 +1,6 @@
 # Provides method for loading chbcr datset
 # The DataLOader class loads data from pickle files which
-# contains processed images stored in nparray (64*64) of type uint8
+# contain processed images stored in numpy array of size (64*64) of type uint8
 # There are 2100 pickle files for each type of grapheme
 
 import sys, os
@@ -9,6 +9,7 @@ import numpy as np
 import random as rng
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+from datetime import datetime
 
 parent = os.path.abspath('..')
 x_pickles_dir = 'dataloader/pickles/graphemes'
@@ -23,6 +24,8 @@ class DataLoader:
     def load_data(train_set_percentage = 0.8, shuffle = True, seed = 1):        
         if train_set_percentage > 1.0 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
+
+        start_time = datetime.now()
 
         train_set = []     
         test_set = []
@@ -64,12 +67,24 @@ class DataLoader:
                         test_xs = xs[ntrain: ]
 
                         for x in train_xs:
-                            train_set.append([x, y])
+                            train_set.append((x, y))
 
                         for x in test_xs:
-                            test_set.append([x, y])
+                            test_set.append((x, y))       
 
-        return [train_set, test_set]
+        print('Data loaded in ', datetime.now() - start_time)  
+
+        train_set = np.array(train_set)
+        test_set = np.array(test_set)
+        
+        if shuffle:
+            p1 = np.random.permutation(train_set.shape[0])
+            train_set = train_set[p1]
+
+            p2 = np.random.permutation(test_set.shape[0])
+            test_set = test_set[p2]    
+
+        return (train_set, test_set)
 
     """
     Loads data in a columnar fashion where first column contains input sets 
@@ -79,6 +94,8 @@ class DataLoader:
         if train_set_percentage > 1 or train_set_percentage < 0.2 :
             raise("Train set percentage outside of range (0.2, 1.0)")
         
+        start_time = datetime.now()
+
         train_x_set = []
         train_y_set = []        
         test_x_set = []
@@ -111,8 +128,8 @@ class DataLoader:
                         (g_id, xs) = load_x_data(file_Path)
                         y = get_y(g_id)
                         
-                        if shuffle:
-                            rng.shuffle(xs)
+                        # if shuffle:
+                        #     rng.shuffle(xs)
 
                         nx = len(xs)
                         ntrain = int(nx * train_set_percentage)
@@ -129,7 +146,23 @@ class DataLoader:
                             test_y_set.append(y)                            
                             
 
-        return [[train_x_set, train_y_set], [test_x_set, test_y_set]]
+        train_x_set = np.array(train_x_set)
+        train_y_set = np.array(train_y_set)
+        test_x_set = np.array(test_x_set)
+        test_y_set = np.array(test_y_set)
+        
+        if shuffle:
+            p1 = np.random.permutation(train_x_set.shape[0])
+            train_x_set = train_x_set[p1]
+            train_y_set = train_y_set[p1]
+
+            p2 = np.random.permutation(test_x_set.shape[0])
+            test_x_set = test_x_set[p2]
+            test_y_set = test_y_set[p2]      
+        
+        print('Data loaded in ', datetime.now() - start_time)  
+        
+        return ((train_x_set, train_y_set), (test_x_set, test_y_set))
 
 
 # Test
